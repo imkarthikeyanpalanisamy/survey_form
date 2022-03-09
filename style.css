@@ -1,0 +1,17 @@
+     
+   
+   body{
+            background:grey;
+            height: 625px;
+            background-size: cover;
+            background-position: center center;
+            position: relative;
+            box-sizing: border-box;
+            -webkit-background-size: cover;
+
+        }
+   footer{
+      text-align:center;
+   } 
+   
+   
