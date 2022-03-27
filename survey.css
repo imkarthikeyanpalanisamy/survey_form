@@ -1,0 +1,16 @@
+      h1{
+           text-align: center;
+       }
+       h2{
+        text-align: center;  
+       }
+       form{
+        width: max-content;
+         margin-left:350px;
+       }
+       body{
+        background:rgba(253, 115, 72, 0.589);
+       }
+       footer{
+           text-align: center;
+       }
